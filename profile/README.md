@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.pointblank.design/" target='_blank'>
-    <img alt="Point Blank" src="https://www.pointblank.design/_next/static/media/burger%20inchis-21.28615ac5.svg" width="120">
+    <img alt="Point Blank" src="https://www.pointblank.design/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmaster-20.43ce37de.png&w=3840&q=75" width="120">
   </a>
 </p>
 
