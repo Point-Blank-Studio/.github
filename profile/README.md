@@ -14,7 +14,7 @@ feel free to reach out to us at **hello@pointblank.design**.
 
 [![Insta Follow](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pointblank.design/)
 [![Twitter Follow](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/PointBlankpbk)
-[![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg?label=point.blank)](https://www.pointblank.design/)
+[![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg?label=PointBlank)](https://www.pointblank.design/)
 
 
 ### Studio
