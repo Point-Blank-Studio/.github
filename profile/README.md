@@ -6,8 +6,11 @@
 
 
 Welcome to  [Point Blank](https://www.pointblank.design/)!  You've reached our open-source repository, 
-a transparent gateway where we openly share insights and information about our business operations with the global community. 
-Should you have any inquiries or require further information, feel free to reach out to us at **hello@pointblank.design**. 
+a transparent gateway where we openly 
+share insights and information about our 
+business operations with the global community. 
+Should you have any inquiries or require further information, 
+feel free to reach out to us at **hello@pointblank.design**. 
 
 [![Insta Follow](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pointblank.design/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/sanctucompu.svg?style=social&logo=twitter&label=Follow)](https://twitter.com/PointBlankpbk)
