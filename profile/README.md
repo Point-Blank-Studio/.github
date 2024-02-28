@@ -16,8 +16,8 @@ Should you have any inquiries or require further information, feel free to reach
 
 ### Studio
 
-- 💸[Profit & Loss Statements SOON]()
-- 🖥[Graphics SOON]()
+- 💸[Profit & Loss Statements SOON]
+- 🖥[Graphics SOON]
 
 
 ### Connect
